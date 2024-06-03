@@ -1,5 +1,7 @@
-# Gomoku
+# Pomoku
 python实现的五子棋小游戏， 使用PySide6搭建图形化用户界面，实现了alpha-beta prunning 和 MCTS 算法，v2版本基于MCTS参考ALPHAZERO的思路实现深度强化学习训练策略价值网络
+
+强化学习部分实现参考junxiaosong的[AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku)
 
 # 环境依赖
 
